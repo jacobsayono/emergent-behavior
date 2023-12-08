@@ -1,6 +1,7 @@
 # Conway's Game of Life
 
 https://en.wikipedia.org/wiki/Emergence
+https://en.wikipedia.org/wiki/Abstraction
 
 - exploring emergent behaviors in robotics and nature
 - need to find mathematical rules for emergent behavior, especially in robots interacting in dynamic environments
