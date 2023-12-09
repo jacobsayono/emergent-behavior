@@ -62,7 +62,7 @@ void printBoard(const std::vector<std::vector<bool>>& board) {
 }
 
 int main() {
-    srand(time(nullptr)); // Seed for random number generation
+    srand(time(nullptr)); // RNG
     std::vector<std::vector<bool>> board(HEIGHT, std::vector<bool>(WIDTH));
 
     initializeBoard(board);
