@@ -1,6 +1,7 @@
-# Conway's Game of Life
+# Emergent Behavior
 
 https://en.wikipedia.org/wiki/Emergence
+
 https://en.wikipedia.org/wiki/Abstraction
 
 - exploring emergent behaviors in robotics and nature
@@ -10,6 +11,8 @@ https://en.wikipedia.org/wiki/Abstraction
 - building some intuition by studying conway's game of life for patterns from simple rules... although it's quite mesmerizing lol
 - thinking about applying these concepts to physical robots - how they learn, adapt, and make decisions based on environment and interactions with people
 
+## Conway's Game of Life
 ![conway](assets/conway.png)
 
-![ant](assets/ant.png)
+## Ant Colony
+![ant](assets/ant-colony.png)
